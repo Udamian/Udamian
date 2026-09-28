@@ -1,79 +1,101 @@
-# Hi, I'm Damián 👋
+# Damián Cambeiro
 
-### Junior Python / Data Developer
+**Junior Python / Data Developer**
 
-I'm a recent graduate in **Multiplatform Application Development (DAM)** with a specialization in **Big Data & Artificial Intelligence**.
+Recent graduate in Multiplatform Application Development (DAM) with a specialization in Big Data and Artificial Intelligence.
 
-I'm interested in building **Python applications, data-driven solutions and backend services**, with a particular focus on working with data, APIs and reliable systems.
+Interested in building Python applications, backend services and data-driven solutions, with a focus on data processing, APIs and reliable software.
 
-Currently looking for my **first full-time opportunity** as a Junior Python Developer, Data Developer, Data Analyst or Junior Data Engineer.
+Currently looking for my first full-time opportunity in **Python, Backend, Data Analysis or Data Engineering**.
 
 ---
 
-##  Tech Stack
+## Technical Skills
 
-**Programming & Backend**
+**Languages**
 
-`Python` · `Java` · `SQL` · `FastAPI` · `REST APIs`
+Python · SQL · Java
+
+**Backend**
+
+FastAPI · REST APIs · SQLAlchemy
 
 **Data**
 
-`Pandas` · `NumPy` · `ETL` · `Data Analysis` · `Parquet`
+Pandas · NumPy · ETL · Data Analysis · Parquet
 
-**Databases & Tools**
+**Databases**
 
-`PostgreSQL` · `MySQL` · `SQLAlchemy` · `Git` · `Docker` · `pytest`
+PostgreSQL · MySQL · SQLite
+
+**Tools**
+
+Git · Docker · pytest · Jupyter
 
 **AI & Automation**
 
-`scikit-learn` · `RAG` · `LLMs` · `n8n`
+scikit-learn · RAG · LLMs · n8n
 
 **Visualization**
 
-`Plotly` · `Streamlit` · `Folium` · `PyDeck`
+Plotly · Streamlit · Folium · PyDeck
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### Job Tracker
 
-A personal job application tracking system designed to manage and analyze the recruitment process.
+Personal job application tracking system for managing and analyzing the recruitment process.
 
-**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Pandas · Docker · pytest
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Pandas · Docker · pytest
 
 **Focus:** REST API · Database design · Backend development · Data analysis
 
-[View repository →](https://github.com/Udamian/job-tracker)
+[Repository](https://github.com/Udamian/job-tracker)
 
 ---
 
-###  RelocationDevs
+### RelocationDevs
 
-An end-to-end data product for developers evaluating international relocation opportunities.
+End-to-end data product for analyzing international relocation opportunities for technology professionals.
 
-The project integrates multiple public datasets to analyze salaries, cost of living, taxation and other factors, producing indicators to support relocation decisions.
+Integrates multiple public datasets to analyze salaries, cost of living, taxation and other factors, generating indicators to support relocation decisions.
 
-**Tech:** Python · Pandas · NumPy · scikit-learn · Plotly · Streamlit
+**Stack:** Python · Pandas · NumPy · scikit-learn · Plotly · Streamlit
 
 **Focus:** ETL · Data Analysis · Machine Learning · Data Visualization
 
-[View repository →](https://github.com/Udamian/RelocationDevs)
+[Repository](https://github.com/Udamian/RelocationDevs)
 
 ---
 
-##  Background
+## Education
 
-🎓 **Higher Technician in Multiplatform Application Development (DAM)**
+**Specialization in Big Data and Artificial Intelligence**
+2025–2026
 
-🎓 **Specialization in Big Data & Artificial Intelligence**
-
-💻 Experience developing Python/Odoo modules, REST APIs, automation workflows and RAG-based solutions.
-
- Spanish & Galician — Native · English — B2
+**Higher Technician in Multiplatform Application Development (DAM)**
+2023–2025
 
 ---
 
-## 📫 Contact
+## Experience
+
+**Junior Developer — Optitech Europa**
+
+Worked on Python/Odoo development, REST APIs, workflow automation and RAG-based solutions for internal applications.
+
+---
+
+## Languages
+
+Spanish — Native
+Galician — Native
+English — B2
+
+---
+
+## Contact
 
 [LinkedIn](https://linkedin.com/in/damian-cambeiro) · [Email](mailto:dcambeiro15@gmail.com)
