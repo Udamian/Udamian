@@ -63,15 +63,15 @@ Integrates and processes data on salaries, cost of living, taxation, and other r
 
 ---
 
-### Spicetify App — Spotify Desktop Customization
+### Spicetify YTM Sync — Spotify & YouTube Music Integration
 
-Application developed for Spicetify to extend and customize the Spotify desktop experience with additional functionality and interface enhancements.
+Spicetify application focused on synchronizing Spotify and YouTube Music, extending the Spotify desktop experience through custom functionality.
 
 **Technologies:** Spicetify · JavaScript · HTML · CSS
 
-**Key areas:** Frontend development · UI customization · Application integration · Client-side development
+**Key areas:** Frontend development · Music platform integration · UI customization · Application development
 
-[View Repository]([https://github.com/Udamian](https://github.com/Udamian/spicetify-ytm-sync))
+[View Repository](https://github.com/Udamian/spicetify-ytm-sync)
 
 ---
 
