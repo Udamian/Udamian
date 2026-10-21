@@ -71,7 +71,7 @@ Application developed for Spicetify to extend and customize the Spotify desktop 
 
 **Key areas:** Frontend development · UI customization · Application integration · Client-side development
 
-[Explore My GitHub](https://github.com/Udamian)
+[View Repository]([https://github.com/Udamian](https://github.com/Udamian/spicetify-ytm-sync))
 
 ---
 
