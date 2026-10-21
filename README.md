@@ -1,101 +1,113 @@
 # Damián Cambeiro
 
-**Junior Python / Data Developer**
+**Junior Python Developer | Backend & Data Engineering**
 
-Recent graduate in Multiplatform Application Development (DAM) with a specialization in Big Data and Artificial Intelligence.
+Recent graduate in Multiplatform Application Development (DAM), with a specialization in Big Data and Artificial Intelligence. Hands-on experience developing Python applications, REST APIs, data pipelines, and AI-powered internal tools.
 
-Interested in building Python applications, backend services and data-driven solutions, with a focus on data processing, APIs and reliable software.
+Focused on writing maintainable code, building reliable backend services, and transforming data into useful insights. Experienced with Python, SQL, FastAPI, PostgreSQL, Pandas, Docker, and automated testing.
 
-Currently looking for my first full-time opportunity in **Python, Backend, Data Analysis or Data Engineering**.
+Currently seeking a **Junior Python Developer, Backend Developer, Data Analyst, or Junior Data Engineer** position where I can contribute to real-world projects and continue growing as a software developer.
 
 ---
 
 ## Technical Skills
 
-**Languages**
+**Programming Languages**  
+Python · SQL · Java · JavaScript
 
-Python · SQL · Java
+**Backend Development**  
+FastAPI · REST APIs · SQLAlchemy · Odoo · API Integration
 
-**Backend**
+**Data Engineering & Analytics**  
+Pandas · NumPy · ETL Pipelines · Data Cleaning · Exploratory Data Analysis · Parquet
 
-FastAPI · REST APIs · SQLAlchemy
+**Databases**  
+PostgreSQL · MySQL · SQLite · Database Design
 
-**Data**
+**Testing & Development Tools**  
+Git · Docker · pytest · Jupyter · Streamlit
 
-Pandas · NumPy · ETL · Data Analysis · Parquet
+**AI & Automation**  
+LLMs · Retrieval-Augmented Generation (RAG) · scikit-learn · n8n
 
-**Databases**
-
-PostgreSQL · MySQL · SQLite
-
-**Tools**
-
-Git · Docker · pytest · Jupyter
-
-**AI & Automation**
-
-scikit-learn · RAG · LLMs · n8n
-
-**Visualization**
-
-Plotly · Streamlit · Folium · PyDeck
+**Data Visualization**  
+Plotly · Folium · PyDeck
 
 ---
 
 ## Featured Projects
 
-### Job Tracker
+### Job Tracker — Job Application Management API
 
-Personal job application tracking system for managing and analyzing the recruitment process.
+Backend application for tracking job applications and analyzing the recruitment process, designed to organize application data and support data-driven job-search decisions.
 
-**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Pandas · Docker · pytest
+**Technologies:** Python · FastAPI · PostgreSQL · SQLAlchemy · Pandas · Docker · pytest
 
-**Focus:** REST API · Database design · Backend development · Data analysis
+**Key areas:** REST API development · Relational database design · Backend architecture · Automated testing · Data analysis
 
-[Repository](https://github.com/Udamian/job-tracker)
+[View Repository](https://github.com/Udamian/job-tracker)
 
 ---
 
-### RelocationDevs
+### RelocationDevs — International Relocation Data Platform
 
-End-to-end data product for analyzing international relocation opportunities for technology professionals.
+End-to-end data product that helps technology professionals compare international relocation opportunities using public datasets.
 
-Integrates multiple public datasets to analyze salaries, cost of living, taxation and other factors, generating indicators to support relocation decisions.
+Integrates and processes data on salaries, cost of living, taxation, and other relevant factors to generate comparative indicators and support relocation decisions.
 
-**Stack:** Python · Pandas · NumPy · scikit-learn · Plotly · Streamlit
+**Technologies:** Python · Pandas · NumPy · scikit-learn · Plotly · Streamlit
 
-**Focus:** ETL · Data Analysis · Machine Learning · Data Visualization
+**Key areas:** Data integration · ETL pipelines · Data analysis · Machine learning · Interactive dashboards · Data visualization
 
-[Repository](https://github.com/Udamian/RelocationDevs)
+[View Repository](https://github.com/Udamian/RelocationDevs)
+
+---
+
+### Spicetify App — Spotify Desktop Customization
+
+Application developed for Spicetify to extend and customize the Spotify desktop experience with additional functionality and interface enhancements.
+
+**Technologies:** Spicetify · JavaScript · HTML · CSS
+
+**Key areas:** Frontend development · UI customization · Application integration · Client-side development
+
+[Explore My GitHub](https://github.com/Udamian)
+
+---
+
+## Professional Experience
+
+### Junior Developer — Optitech Europa
+
+Contributed to internal application development and business process automation, working with Python, Odoo, REST APIs, and AI-powered solutions.
+
+- Developed and maintained Python/Odoo functionality for internal applications.
+- Worked with REST APIs to integrate services and exchange data between systems.
+- Contributed to workflow automation to improve internal processes.
+- Worked on Retrieval-Augmented Generation (RAG) solutions for internal applications.
 
 ---
 
 ## Education
 
-**Specialization in Big Data and Artificial Intelligence**
+**Specialization in Big Data and Artificial Intelligence**  
 2025–2026
 
-**Higher Technician in Multiplatform Application Development (DAM)**
+**Higher Technician in Multiplatform Application Development (DAM)**  
 2023–2025
-
----
-
-## Experience
-
-**Junior Developer — Optitech Europa**
-
-Worked on Python/Odoo development, REST APIs, workflow automation and RAG-based solutions for internal applications.
 
 ---
 
 ## Languages
 
-Spanish — Native
-Galician — Native
-English — B2
+- **Spanish:** Native
+- **Galician:** Native
+- **English:** B2
 
 ---
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/damian-cambeiro) · [Email](mailto:dcambeiro15@gmail.com)
+- **GitHub:** [github.com/Udamian](https://github.com/Udamian)
+- **LinkedIn:** [linkedin.com/in/damian-cambeiro](https://linkedin.com/in/damian-cambeiro)
+- **Email:** [dcambeiro15@gmail.com](mailto:dcambeiro15@gmail.com)
